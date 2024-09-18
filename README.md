@@ -1,4 +1,5 @@
 Name : Ranit Nandi
+
 Institute: Indian Institute of Technology (Indian School of Mines), Dhanbad
 
 # NextJS Chat Website <img src="https://raw.githubusercontent.com/alamorre/nextjs-chat-app/main/assets/nextjs-chat-tutorial.png" width="75%" height="100%" />
