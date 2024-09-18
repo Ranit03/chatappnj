@@ -3,6 +3,8 @@ Name : Ranit Nandi
 Institute: Indian Institute of Technology (Indian School of Mines), Dhanbad
 
 Department: Computer Science And Engineering
+User Name: ronit@gmail.com
+Password: 12345678
 
 Website Link : https://chatapp-zeta-five.vercel.app/
 
