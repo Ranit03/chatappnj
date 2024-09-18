@@ -2,6 +2,8 @@ Name : Ranit Nandi
 
 Institute: Indian Institute of Technology (Indian School of Mines), Dhanbad
 
+Department: Computer Science And Engineering
+
 Website Link : https://chatapp-zeta-five.vercel.app/
 
 # NextJS Chat Website <img src="https://raw.githubusercontent.com/alamorre/nextjs-chat-app/main/assets/nextjs-chat-tutorial.png" width="75%" height="100%" />
